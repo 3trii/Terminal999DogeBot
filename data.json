@@ -1,0 +1,35 @@
+{
+    "account": {
+        "username": "USERNAME",
+        "password": "PASSWORD"
+    },
+    "withdraw": {
+        "balance": "3000",
+        "wdbalance": "1000",
+        "address": "WD ADDRESS DOGE"
+    },
+    "runbot": [
+        {
+            "minChance": "15",
+            "maxChance": "49",
+            "baseBet": "0.00001",
+            "maxBet": "2",
+            "maxRollWin": "2",
+            "mulWin": "1",
+            "mulLose": "1.4",
+            "ifWinBaseBet": "0",
+            "ifLoseBaseBet": "0"
+        },
+        {
+            "minChance": "15",
+            "maxChance": "49",
+            "baseBet": "0.00001",
+            "maxBet": "2",
+            "maxRollWin": "2",
+            "mulWin": "1",
+            "mulLose": "1.4",
+            "ifWinBaseBet": "0",
+            "ifLoseBaseBet": "0"
+        }
+    ]
+}
