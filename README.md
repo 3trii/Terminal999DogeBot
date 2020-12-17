@@ -3,7 +3,7 @@
 How to use?
 1. Install Python on your computer.
 2. Edit Username, Password, and Withdraw Address Dogecoin.
-3. Run using cmd or terminal [code]python run.py[/code].
+3. Run using cmd or terminal ```python run.py```.
 4. Done
 
 Warning: This is gambling, please manage your money.
