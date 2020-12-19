@@ -6,6 +6,8 @@ How to use?
 3. Run using cmd or terminal ```python run.py```.
 4. Done
 
+My Testing: screenshoot_testing.png
+
 Warning: This is gambling, please manage your money.
 
 Donate me:
